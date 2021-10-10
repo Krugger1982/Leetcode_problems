@@ -1,2 +1,5 @@
-x = -1073741823.5
-print(x*2)
+from collections import Counter
+
+words = ["dhvf","sind","sind"]
+hashmap = Counter(words) 
+print(hashmap)
