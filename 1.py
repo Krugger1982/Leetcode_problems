@@ -1,5 +1,3 @@
-from collections import Counter
-
-words = ["dhvf","sind","sind"]
-hashmap = Counter(words) 
-print(hashmap)
+A = float('-inf')
+print(A, type(A))
+print(max(A, -9999999999999))
